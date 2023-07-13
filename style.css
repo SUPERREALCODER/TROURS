@@ -1,0 +1,12 @@
+
+img{
+    width: 300px;
+    height: 300px;
+    float: right;
+}
+div{
+    display: block;
+}
+h2{
+    clear: right;
+}
